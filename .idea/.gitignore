@@ -3,4 +3,4 @@
 /workspace.xml
 /build
 .HELP.md
-
+*.log
